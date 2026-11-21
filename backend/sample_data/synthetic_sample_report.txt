@@ -1,0 +1,44 @@
+================================================================================
+SYNTHETIC DEMO LABORATORY REPORT (SYNTHETIC DATA ONLY)
+================================================================================
+NOTICE: For educational demonstration purposes only.
+Not a real medical record. No real patient data.
+--------------------------------------------------------------------------------
+Patient Name: Synthetic Demo Patient
+Patient ID: SYN-98241
+Ordering Provider: Dr. Alex Taylor, MD (Simulated)
+Date of Collection: 2026-11-15 08:30 AM
+Date of Report: 2026-11-15 02:45 PM
+
+1. COMPLETE BLOOD COUNT (CBC) WITH DIFFERENTIAL
+Test Name                  Result    Reference Range    Units       Flag
+-------------------------  --------  -----------------  ----------  ------
+White Blood Cells (WBC)    6.8       4.5 - 11.0         x10^3/uL    Normal
+Red Blood Cells (RBC)      4.75      4.30 - 5.90        x10^6/uL    Normal
+Hemoglobin (Hgb)           14.2      13.5 - 17.5        g/dL        Normal
+Hematocrit (Hct)           42.1      38.8 - 50.0        %           Normal
+Platelets                  245       150 - 450          x10^3/uL    Normal
+
+2. COMPREHENSIVE METABOLIC PANEL (CMP)
+Test Name                  Result    Reference Range    Units       Flag
+-------------------------  --------  -----------------  ----------  ------
+Glucose (Fasting)          94        70 - 99            mg/dL       Normal
+BUN                        14        7 - 20             mg/dL       Normal
+Creatinine                 0.92      0.60 - 1.20        mg/dL       Normal
+eGFR                       >60       >60                mL/min      Normal
+Sodium                     139       135 - 145          mmol/L      Normal
+Potassium                  4.2       3.5 - 5.0          mmol/L      Normal
+
+3. FASTING LIPID PANEL
+Test Name                  Result    Reference Range    Units       Flag
+-------------------------  --------  -----------------  ----------  ------
+Total Cholesterol          208       <200 (Desirable)   mg/dL       Borderline
+Triglycerides              145       <150 (Normal)      mg/dL       Normal
+HDL Cholesterol (Good)     52        >40                mg/dL       Normal
+LDL Cholesterol (Calc)     127       <100 (Optimal)     mg/dL       Above Optimal
+
+CLINICAL IMPRESSION:
+Borderline total cholesterol and above-optimal LDL cholesterol noted.
+Recommend discussing with primary care physician regarding dietary adjustments,
+exercise frequency, and overall cardiovascular risk factors.
+================================================================================
